@@ -2,7 +2,7 @@
 
 有時候會發生conflict。但這樣也不要慌張，好好的讀source來解決conflict比較重要。
 
-丈夫不可以git blame喔。
+丈夫不可以`git blame`喔。
 
 有從妻子來的pull request的話，請快速的merge。
 
